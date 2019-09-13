@@ -1,0 +1,52 @@
+header {
+    background-color: #333333;
+}
+
+h1 {
+    color: #eee;
+    text-align: center;
+    padding: 5px;
+    font-size: 28px;
+}
+
+body {
+    background-color: #efeee7;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+.container {
+    width: 1024px;
+      display: table-cell;
+   }
+
+.bio-pic {
+    float: left;
+    width: 200px;
+    margin: 3px;
+    vertical-align: baseline;
+}
+
+.main-bio {
+    float: left;
+    width: 717px;
+    margin: 5px;
+}
+
+.info {
+    float: right;
+    width: 307px;
+    height: 150%;
+    margin: 3px;
+    text-align: justify;
+}
+
+a {
+    color: #d21034;
+}
